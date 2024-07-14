@@ -6,7 +6,7 @@ import { AdminService } from "./admin.service";
 @Module({
     imports: [
         MulterModule.register({
-            dest: './uploads',
+            dest: './uploads',  //dest option specifies the directory (./uploads) where the uploaded files will be stored.
         }),
     ],
     controllers: [AdminController],
