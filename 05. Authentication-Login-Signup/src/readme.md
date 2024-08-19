@@ -41,9 +41,9 @@ POST /admin/login: Handle admin-specific login and return an access token.
 
 ![9](https://github.com/user-attachments/assets/0e2a7401-4bb1-4f1a-9ce4-7b7a1d629af4)
 
-![10](https://github.com/user-attachments/assets/3e21df31-dab0-44ec-a99e-da61cad4aaa7)
-
 ![11](https://github.com/user-attachments/assets/50115961-3592-4a14-bc91-71f716eb446a)
+
+![10](https://github.com/user-attachments/assets/3e21df31-dab0-44ec-a99e-da61cad4aaa7)
 
 ![12](https://github.com/user-attachments/assets/3f71c1e7-0f48-4d20-b505-c73f6aa82bee)
 
