@@ -1,5 +1,6 @@
 ## .env File
 The .env file is a simple but powerful way to store environment variables, which are key-value pairs that define various configuration settings for your application.
+
 ![00](https://github.com/user-attachments/assets/ce3ec5c0-edfa-4a4d-876a-f7e1bb1f75c4)
 
 ## auth.controller.ts:
