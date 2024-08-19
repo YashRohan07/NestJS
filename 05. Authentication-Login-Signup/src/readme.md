@@ -8,6 +8,7 @@ Purpose: Handles authentication and user management. Including user login, regis
 
 Endpoints:
 POST /auth/signup: Handles user registration.
+
 POST /auth/login: Handles user login and returns an access token.
 
 
@@ -16,6 +17,7 @@ Purpose: Manages admin-specific operations. It might handle admin registration, 
 
 Endpoints:
 POST /admin/signup: Handle admin-specific registration.
+
 POST /admin/login: Handle admin-specific login and return an access token.
 
 
