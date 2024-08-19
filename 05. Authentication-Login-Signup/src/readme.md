@@ -7,6 +7,7 @@ The .env file is a simple but powerful way to store environment variables, which
 Purpose: Handles authentication and user management. Including user login, registration, and possibly other authentication-related tasks.
 
 Endpoints:
+
 POST /auth/signup: Handles user registration.
 
 POST /auth/login: Handles user login and returns an access token.
@@ -16,6 +17,7 @@ POST /auth/login: Handles user login and returns an access token.
 Purpose: Manages admin-specific operations. It might handle admin registration, login, and other administrative tasks.
 
 Endpoints:
+
 POST /admin/signup: Handle admin-specific registration.
 
 POST /admin/login: Handle admin-specific login and return an access token.
