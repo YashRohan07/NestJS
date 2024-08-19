@@ -1,3 +1,8 @@
+## File Structure
+
+![Structure](https://github.com/user-attachments/assets/38b46663-26d5-44be-9f54-d90ab0369f7c)
+
+
 ## .env File
 The .env file is a simple but powerful way to store environment variables, which are key-value pairs that define various configuration settings for your application.
 
