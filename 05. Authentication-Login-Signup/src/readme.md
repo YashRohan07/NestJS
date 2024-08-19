@@ -27,6 +27,8 @@ POST /admin/login: Handle admin-specific login and return an access token.
 
 ![2](https://github.com/user-attachments/assets/57a6a0a5-94d8-4442-a53a-36ae243426d0)
 
+![11](https://github.com/user-attachments/assets/50115961-3592-4a14-bc91-71f716eb446a)
+
 ![3](https://github.com/user-attachments/assets/88b7b789-67be-4b05-81cf-afd67c484225)
 
 ![4](https://github.com/user-attachments/assets/5bd14ebe-9630-4a71-a7e1-583451001f77)
@@ -40,8 +42,6 @@ POST /admin/login: Handle admin-specific login and return an access token.
 ![8](https://github.com/user-attachments/assets/982716f6-699d-4147-8c4b-8c6280f6c49e)
 
 ![9](https://github.com/user-attachments/assets/0e2a7401-4bb1-4f1a-9ce4-7b7a1d629af4)
-
-![11](https://github.com/user-attachments/assets/50115961-3592-4a14-bc91-71f716eb446a)
 
 ![10](https://github.com/user-attachments/assets/3e21df31-dab0-44ec-a99e-da61cad4aaa7)
 
